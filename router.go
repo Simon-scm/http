@@ -1,4 +1,4 @@
-package http
+package httplight
 
 type Response struct {
 	Status      int
